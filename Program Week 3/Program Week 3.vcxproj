@@ -140,7 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="3-1 ข้อ8.cpp" />
-    <ClCompile Include="3-2 ข้อ 10.cpp" />
+    <ClCompile Include="3-2 ข้อ 14.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

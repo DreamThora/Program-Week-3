@@ -18,7 +18,7 @@
     <ClCompile Include="3-1 ข้อ8.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3-2 ข้อ 10.cpp">
+    <ClCompile Include="3-2 ข้อ 14.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
